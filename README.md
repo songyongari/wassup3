@@ -1,14 +1,7 @@
-# wassup3
-study
+# Hello
 
-## hello
-
-### pull test
+송용준
 
 
-|git 명령어| 설명 |
-|-|-|
-|git add . | 수정사항 추가 |
-|git status| 상태확인 |
-|git commit -m '' | 커밋 |
-|git push | 원격저장소에 업로드 |
+<img src="https://img.shields.io/badge/Instagram-hexcode색상?style=plastic&logo=로고이름&logoColor=로고색상"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
