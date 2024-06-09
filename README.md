@@ -2,7 +2,7 @@
 
 ## 송용준
 
-<b> Studying </b>
+Studying
 
 <span>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
